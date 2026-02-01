@@ -6,3 +6,21 @@
 ** How doo webpages works?
 user -> visit & interact -> client (Browser) -> server -> response back
 
+** Variables and Contstants
+
+examples:
+let userName = 'Shiva'; A data container/ data storage
+const a = 'qq'
+
+** Variables Naming:
+Allowed
+let userName - best practice
+ler ageGroup5 - only letter and digits
+let $kindOfSpecial 
+let _internalValue
+
+Not Allowed:
+let user_name - allowed but bad practice
+let 21Player - start with digit not allowed
+let user-b - no spl chars
+let let - keywords not allowed
