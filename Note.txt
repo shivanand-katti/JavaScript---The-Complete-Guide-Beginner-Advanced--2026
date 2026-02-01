@@ -1,0 +1,8 @@
+** what is javascript?
+1. javascript is a dynamic, weakly typed
+2. javascript was created to make webpages more dynamic.
+
+
+** How doo webpages works?
+user -> visit & interact -> client (Browser) -> server -> response back
+
